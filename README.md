@@ -44,4 +44,5 @@ These columns represent the four quarters of a financial year (Q1 - Quarter 1, Q
 
 Grand Total:
 The Grand Total typically sums up the values across the quarters, providing a summary of the annual or total performance for the specified metrics
-link:
+link:"https://github.com/VishnuNPoojary24/Excel-Sales-Analytics/blob/main/Finance%20report%201.pdf"
+link:"https://github.com/VishnuNPoojary24/Excel-Sales-Analytics/blob/main/Finance%20report%202.pdf"
