@@ -16,6 +16,7 @@ This section highlights the introduction of new products in 2021 for AtliQ Hardw
 
 AtliQ Hardwares - Top 5 Countries in 2021:
 This section focuses on the top five countries where AtliQ Hardwares made sales in 2021. It lists the sales figures for each country, including Canada, India, South Korea, the United Kingdom, and the USA. The Grand Total represents the total sales across these top countries in 2021.
+link: "https://github.com/VishnuNPoojary24/Excel-Sales-Analytics/blob/main/Sales%20Report.pdf"
 
 ### Finance Analytics
 - **Project objective :**
@@ -43,3 +44,4 @@ These columns represent the four quarters of a financial year (Q1 - Quarter 1, Q
 
 Grand Total:
 The Grand Total typically sums up the values across the quarters, providing a summary of the annual or total performance for the specified metrics
+link:
